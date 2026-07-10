@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import "./hamburger.css";
+import "./Hamburger.css";
 
 export default function Hamburger() {
   const [open, setOpen] = useState(false);
