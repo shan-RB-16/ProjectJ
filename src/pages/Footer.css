@@ -56,6 +56,7 @@ margin-left: 30%;
 .footer-social {
   display: flex;
   gap: 12px;
+  margin: 10px;
 }
 
 .footer-social img {
